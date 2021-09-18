@@ -1,0 +1,11 @@
+C:\Users\Лена\source\repos\test_anketa\test_anketa\bin\Debug\test_anketa.exe.config
+C:\Users\Лена\source\repos\test_anketa\test_anketa\bin\Debug\test_anketa.exe
+C:\Users\Лена\source\repos\test_anketa\test_anketa\bin\Debug\test_anketa.pdb
+C:\Users\Лена\source\repos\test_anketa\test_anketa\obj\Debug\test_anketa.csproj.AssemblyReference.cache
+C:\Users\Лена\source\repos\test_anketa\test_anketa\obj\Debug\test_anketa.Form2.resources
+C:\Users\Лена\source\repos\test_anketa\test_anketa\obj\Debug\test_anketa.Properties.Resources.resources
+C:\Users\Лена\source\repos\test_anketa\test_anketa\obj\Debug\test_anketa.csproj.GenerateResource.cache
+C:\Users\Лена\source\repos\test_anketa\test_anketa\obj\Debug\test_anketa.csproj.CoreCompileInputs.cache
+C:\Users\Лена\source\repos\test_anketa\test_anketa\obj\Debug\test_anketa.exe
+C:\Users\Лена\source\repos\test_anketa\test_anketa\obj\Debug\test_anketa.pdb
+C:\Users\Лена\source\repos\test_anketa\test_anketa\obj\Debug\test_anketa.csproj.ResolveComReference.cache
